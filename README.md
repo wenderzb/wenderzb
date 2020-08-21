@@ -1,6 +1,6 @@
 <img align="right" width="500" height="500" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif">
 
-Exploradores: [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+Exploradores: [! [HitCount] (http://hits.dwyl.com/wenderzb/https://githubcom/wenderzb/wenderzb.svg)] (http://hits.dwyl.com/wenderzb/https://githubcom/ wenderzb / wenderzb)
 # Bem-vindo!
 ## Eu sou Wender! Let me present a little about myself :D
 
