@@ -17,4 +17,4 @@ Gosto muito de café :heart:
 
 
 - Obrigado pela visita. 
-- Até mais!! o/
+- Até mais!! :wave:
