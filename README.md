@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+<img align="right" width="400" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fturn-your-world-around&psig=AOvVaw1VDhcXHr9FEmSCaU57RQrS&ust=1598130289034000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLie0rSZresCFQAAAAAdAAAAABAP">
 
 Exploradores: [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
 # Bem-vindo!
