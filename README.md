@@ -1,8 +1,7 @@
 <img align="right" width="500" height="500" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif">
 
 # Bem-vindo!
-## Eu sou Wender! 
-## Deixe-me apresentar um pouco sobre mim :smiley:
+<b> Eu sou Wender!  Deixe-me apresentar um pouco sobre mim :smiley:</b>
 
 Estagiário desenvolvimento :robot:
 
