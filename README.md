@@ -3,7 +3,7 @@
 # Bem-vindo!
 <b> Eu sou Wender!  Deixe-me apresentar um pouco sobre mim :smiley:</b>
 
-Estagiário desenvolvimento :robot:
+Estagiário desenvolvimento e cloud :robot:
 
 Faço exercícios de lógica e gosto muito  :man_technologist:
 
