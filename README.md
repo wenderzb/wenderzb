@@ -18,8 +18,8 @@ Gosto muito de café :heart:
 <hr>
 <!--  GitHub Stats -->
 <p align="center">
-    <img  src="https://github-readme-stats.deborahbpc.vercel.app/api?username=1506kidrauhl&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
-    <img  src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=1506kidrauhl&layout=compact&langs_count=8&theme=buefy" />
+    <img  src="https://github-readme-stats.deborahbpc.vercel.app/api?username=wenderzb&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
+    <img  src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=wenderzb&layout=compact&langs_count=8&theme=buefy" />
 </p>
 <hr>
 
