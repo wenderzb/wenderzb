@@ -15,11 +15,5 @@ Gosto muito de café :heart:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wenderzb)](https://github.com/wenderzb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wender-batista/)](https://www.linkedin.com/in/wender-batista/)
 
-<td width ="50%">
-        <p align="center"><strong>Relaxe e vá ouvir música</strong> :notes: </p>
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
-    </td>
-
 - Obrigado pela visita. 
 - Até mais!! :wave:
