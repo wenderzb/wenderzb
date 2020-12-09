@@ -3,7 +3,9 @@
 # Bem-vindo!
 <b> Eu sou Wender!  Deixe-me apresentar um pouco sobre mim :smiley:</b>
 
-Estagiário desenvolvimento e cloud :robot:
+Analista de Infraestrutura Junior :robot:
+
+Futuro Especialista Devops :rocket: 
 
 Faço exercícios de lógica e gosto muito  :man_technologist:
 
