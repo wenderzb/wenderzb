@@ -1,9 +1,9 @@
 <img align="right" width="500" height="500" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif">
 
 # Bem-vindo!
-<b> Eu sou Wender!  Deixe-me apresentar um pouco sobre mim :smiley:</b>
+<b> Eu sou Wender! Deixe-me apresentar um pouco sobre mim :smiley:</b>
 
-Analista de Infraestrutura Junior :robot:
+Analista de Infraestrutura Junior na Tivit :robot:
 
 Futuro Especialista Devops :rocket: 
 
