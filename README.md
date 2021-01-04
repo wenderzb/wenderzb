@@ -11,7 +11,6 @@ Faço exercícios de lógica e gosto muito  :man_technologist:
 
 Gosto muito de café :heart:
 
-
 ## Sobre mim 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wenderzb)](https://github.com/wenderzb)
