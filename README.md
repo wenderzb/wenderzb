@@ -7,7 +7,7 @@ Analista de Infraestrutura Junior na Tivit :robot:
 
 Futuro Especialista Devops :rocket: 
 
-Faço exercícios de lógica e gosto muito  :man_technologist:
+Faço exercícios de lógica e gosto muito :man_technologist:
 
 Gosto muito de café :heart:
 
