@@ -9,7 +9,7 @@ Futuro Especialista Devops :rocket:
 
 Faço exercícios de lógica e gosto muito :man_technologist:
 
-Gosto muito de café :heart:
+Fiz analise e desenvolvimento de sistemas :heart:
 
 ## Sobre mim 
 
