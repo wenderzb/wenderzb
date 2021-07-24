@@ -3,7 +3,7 @@
 # Bem-vindo!
 <b> Eu sou Wender! Deixe-me apresentar um pouco sobre mim :smiley:</b>
 
-Analista de Infraestrutura Junior na Tivit :robot:
+Cloud Engineer Jr na Globant :robot:
 
 Futuro Especialista Devops :rocket: 
 
