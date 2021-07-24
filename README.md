@@ -1,20 +1,20 @@
 <img align="right" width="500" height="500" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif">
 
-# Bem-vindo!
-<b> Eu sou Wender! Deixe-me apresentar um pouco sobre mim :smiley:</b>
+# Welcome!
+<b> I am Wender! Let me introduce a little bit about myself :smiley:</b>
 
-Cloud Engineer Jr na Globant :robot:
+Cloud Engineer Jr at Globant :robot:
 
-Futuro Especialista Devops :rocket: 
+Future Devops Specialist :rocket: 
 
-Faço exercícios de lógica e gosto muito :man_technologist:
+I do logic exercises and I like it very much :man_technologist:
 
-Fiz analise e desenvolvimento de sistemas :heart:
+I did systems analysis and development :heart:
 
-## Sobre mim 
+## About Me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wenderzb)](https://github.com/wenderzb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wender-batista/)](https://www.linkedin.com/in/wender-batista/)
 
-- Obrigado pela visita. 
-- Até mais!! :wave:
+- Thank you for visiting. 
+- See you later!! :wave:
