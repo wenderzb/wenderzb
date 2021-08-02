@@ -13,7 +13,7 @@ I did systems analysis and development :heart:
 
 # Tools used!
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
