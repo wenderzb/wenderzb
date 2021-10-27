@@ -5,7 +5,7 @@
 
 Devops Engineer Jr at Globant :robot:
 
-Future Cloud Engineer Specialist :rocket: 
+Future Devops Engineer Specialist :rocket: 
 
 I do logic exercises and I like it very much :man_technologist:
 
