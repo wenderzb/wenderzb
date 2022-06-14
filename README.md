@@ -3,7 +3,7 @@
 # Welcome!
 <b> I am Wender! Let me introduce a little bit about myself :smiley:</b>
 
-Devops Engineer Jr at Globant :robot:
+Devops Engineer Jr at Avenue Code :robot:
 
 Future Devops Engineer Specialist :rocket: 
 
