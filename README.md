@@ -1,12 +1,10 @@
-<img align="right" width="350" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif">
 # Hi, I'm Wender! 👋
 
 ### DevOps & Cloud Engineer ☁️
-I'm a DevOps Engineer focused on cloud infrastructure, automation,
-container orchestration, and CI/CD.
 
-I work mainly with **AWS, Kubernetes, Terraform, and CI/CD**, building
-and maintaining reliable cloud environments.
+I'm a DevOps Engineer focused on **cloud infrastructure, automation, container orchestration, and CI/CD**.
+
+I work mainly with **AWS, Kubernetes, Terraform, and CI/CD**, building and maintaining reliable cloud environments.
 
 - ☁️ Working with AWS cloud infrastructure
 - ☸️ Building and maintaining Kubernetes environments
@@ -15,9 +13,13 @@ and maintaining reliable cloud environments.
 - 📊 Improving my skills in monitoring and observability
 - 🌎 Preparing myself for international engineering environments
 
+<p align="center">
+  <img width="350" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif" alt="Hello World">
+</p>
+
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="AWS"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="45" alt="Kubernetes"/>
@@ -38,6 +40,7 @@ and maintaining reliable cloud environments.
 </div>
 
 ## 🚀 Currently Improving
+
 - Kubernetes & Amazon EKS
 - AWS Architecture
 - Terraform
