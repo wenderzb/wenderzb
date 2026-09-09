@@ -42,14 +42,16 @@ and maintaining reliable cloud environments.
 - Terraform
 - CI/CD & GitOps
 - Monitoring & Observability
-- Google Cloud Platform
 - English for international engineering environments
 
 ## 👨‍💻 About Me
 
 🎓 Background in Systems Analysis and Development
+
 🇧🇷 DevOps Engineer from Brazil
+
 💡 Interested in Cloud, DevOps, SRE and Platform Engineering
+
 🌎 Looking forward to working on increasingly international and challenging projects
 
 ## 🤝 Connect with me
