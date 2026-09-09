@@ -1,31 +1,58 @@
-<img align="right" width="500" height="500" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif">
+# Hi, I'm Wender! 👋
 
-# Welcome!
-<b> I am Wender! Let me introduce a little bit about myself :smiley:</b>
+### DevOps & Cloud Engineer ☁️
+I'm a DevOps Engineer focused on cloud infrastructure, automation,
+container orchestration, and CI/CD.
 
-Devops Engineer Jr at Avenue Code :robot:
+I work mainly with **AWS, Kubernetes, Terraform, and CI/CD**, building
+and maintaining reliable cloud environments.
 
-Future Devops Engineer Specialist :rocket: 
+- ☁️ Working with AWS cloud infrastructure
+- ☸️ Building and maintaining Kubernetes environments
+- 🏗️ Automating infrastructure with Terraform
+- 🔄 Working with CI/CD pipelines and GitOps
+- 📊 Improving my skills in monitoring and observability
+- 🌎 Preparing myself for international engineering environments
 
-I do logic exercises and I like it very much :man_technologist:
+## 🛠️ Tech Stack
 
-I did systems analysis and development :heart:
-
-# Tools used!
-
-<div style="display: inline_block">
-  <img align="center" alt="amazon" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="terraform" height="30" width="40" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png">
-  <img align="center" alt="azure" height="30" width="40" src="http://stefanos.cloud/blog/wp-content/uploads/2020/10/Azure.png">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="AWS"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="45" alt="Kubernetes"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="45" alt="Terraform"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="45" alt="Azure"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="45" alt="GCP"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="45" alt="Jenkins"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="45" alt="GitHub Actions"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="45" alt="Argo CD"/>
 </div>
 
-## About Me 
+## 🚀 Currently Improving
+- Kubernetes & Amazon EKS
+- AWS Architecture
+- Terraform
+- CI/CD & GitOps
+- Monitoring & Observability
+- Google Cloud Platform
+- English for international engineering environments
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wenderzb)](https://github.com/wenderzb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wender-batista/)](https://www.linkedin.com/in/wender-batista/)
+## 👨‍💻 About Me
 
-- Thank you for visiting. 
-- See you later!! :wave:
+🎓 Background in Systems Analysis and Development
+🇧🇷 DevOps Engineer from Brazil
+💡 Interested in Cloud, DevOps, SRE and Platform Engineering
+🌎 Looking forward to working on increasingly international and challenging projects
+
+## 🤝 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wenderzb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wender-batista/)
