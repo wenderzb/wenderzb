@@ -1,5 +1,9 @@
 # Hi, I'm Wender! 👋
 
+<table>
+<tr>
+<td width="70%" valign="top">
+
 ### DevOps & Cloud Engineer ☁️
 
 I'm a DevOps Engineer focused on **cloud infrastructure, automation, container orchestration, and CI/CD**.
@@ -13,9 +17,19 @@ I work mainly with **AWS, Kubernetes, Terraform, and CI/CD**, building and maint
 - 📊 Improving my skills in monitoring and observability
 - 🌎 Preparing myself for international engineering environments
 
-<p align="center">
-  <img width="350" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif" alt="Hello World">
-</p>
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img width="250" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif" alt="Hello World">
+
+<br>
+
+<sub><i>Small step for code, a big step for new opportunities. 🚀</i></sub>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -39,6 +53,8 @@ I work mainly with **AWS, Kubernetes, Terraform, and CI/CD**, building and maint
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="45" alt="Argo CD"/>
 </div>
 
+<br>
+
 ## 🚀 Currently Improving
 
 - Kubernetes & Amazon EKS
@@ -50,15 +66,18 @@ I work mainly with **AWS, Kubernetes, Terraform, and CI/CD**, building and maint
 
 ## 👨‍💻 About Me
 
-🎓 Background in Systems Analysis and Development
-
-🇧🇷 DevOps Engineer from Brazil
-
-💡 Interested in Cloud, DevOps, SRE and Platform Engineering
-
-🌎 Looking forward to working on increasingly international and challenging projects
+- 🎓 Background in Systems Analysis and Development
+- 🇧🇷 DevOps Engineer from Brazil
+- 💡 Interested in Cloud, DevOps, SRE and Platform Engineering
+- 🌎 Looking forward to working on increasingly international and challenging projects
 
 ## 🤝 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wenderzb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wender-batista/)
+
+---
+
+<p align="center">
+  <i>Automating today for a more reliable tomorrow.</i>
+</p>
