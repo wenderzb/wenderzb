@@ -1,3 +1,4 @@
+<img align="right" width="350" src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif">
 # Hi, I'm Wender! 👋
 
 ### DevOps & Cloud Engineer ☁️
